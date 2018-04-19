@@ -1,2 +1,2 @@
-# CODES-Game-developement
-This is the repository of all my coding work on games.
+
+This is a repo of a game named as Number Wizard based on a simple BINARY SEARCH algorithm.
